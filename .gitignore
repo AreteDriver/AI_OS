@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.vscode/
+.idea/
+ai_desktop/__pycache__/

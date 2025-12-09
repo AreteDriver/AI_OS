@@ -1,0 +1,11 @@
+[project]
+name = "ai_desktop"
+version = "0.0.1"
+description = "Arete AI Desktop Agent"
+authors = ["AreteDriver <aretedriver@example.com>"]
+license = "MIT"
+readme = "README.md"
+requires-python = ">=3.8"
+
+[tool.setuptools]
+packages = ["ai_desktop"]
